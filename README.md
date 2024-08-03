@@ -24,7 +24,8 @@ Bem-vindo ao repositório Java Essentials! Este projeto abrange conceitos essenc
 ## Autores
 
 - **Hawllysson Gardel Queiroz Almeida** - Versão Inicial
-## 🎁 Expressões de gratidão
+
+## Expressões de gratidão
 
 - Conte a outras pessoas sobre este projeto 📢
 - Convide alguém da equipe para uma cerveja 🍺
